@@ -38,5 +38,6 @@
       "enabled": true
     }
   },
-  "maxusdt" : 2
+  "maxusdt" : 2,
+  "allow_trading" : true
 }

@@ -24,9 +24,9 @@ def start_bot():
   
   """
   global reference_prices
+  global allow_trading
   
   print("Starting Binance Trading Bot...")
-  print("Allow Trading:", allow_trading)
   config = {}
   # Read the config.json file
   try:
@@ -36,6 +36,10 @@ def start_bot():
   except Exception as e:
     print(f"Error reading configuration file: {e}")
     return
+  
+  # Read allow_trading from the config file
+  allow_trading = config("allow_trading")
+  print("Allow Trading:", allow_trading)
   
   # Extract the configuration parameters
   # Only fetch the enabled cryptos
