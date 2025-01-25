@@ -38,7 +38,7 @@ def start_bot():
     return
   
   # Read allow_trading from the config file
-  allow_trading = config("allow_trading")
+  allow_trading = config["allow_trading"]
   print("Allow Trading:", allow_trading)
   
   # Extract the configuration parameters
