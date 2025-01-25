@@ -9,22 +9,34 @@
     },
     "ETH": {
       "symbol": "ETHUSDT",
-      "sell_threshold": 1.5,
-      "buy_threshold": 1.5,
-      "enabled": true
+      "sell_threshold": 2,
+      "buy_threshold": 2,
+      "enabled": false
     },
     "LTC": {
       "symbol": "LTCUSDT",
-      "sell_threshold": 2,
-      "buy_threshold": 2,
-      "enabled": true
+      "sell_threshold": 1.2,
+      "buy_threshold": 1.2,
+      "enabled": false
     },
     "XRP": {
       "symbol": "XRPUSDT",
       "sell_threshold": 2,
       "buy_threshold": 2,
       "enabled": false
+    },
+    "SHIB" : {
+      "symbol": "SHIBUSDT",
+      "sell_threshold": 1.2,
+      "buy_threshold": 1.2,
+      "enabled": true
+    },
+    "TRUMP" : {
+      "symbol": "TRUMPUSDT",
+      "sell_threshold": 2,
+      "buy_threshold": 2,
+      "enabled": true
     }
   },
-  "maxusdt" : 5
+  "maxusdt" : 2
 }
