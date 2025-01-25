@@ -1,0 +1,30 @@
+{
+  "strategy": "BASIC",
+  "cryptos":  {
+    "BTC": {
+      "symbol": "BTCUSDT",
+      "sell_threshold": 2,
+      "buy_threshold": 2,
+      "enabled": false
+    },
+    "ETH": {
+      "symbol": "ETHUSDT",
+      "sell_threshold": 1.5,
+      "buy_threshold": 1.5,
+      "enabled": true
+    },
+    "LTC": {
+      "symbol": "LTCUSDT",
+      "sell_threshold": 2,
+      "buy_threshold": 2,
+      "enabled": true
+    },
+    "XRP": {
+      "symbol": "XRPUSDT",
+      "sell_threshold": 2,
+      "buy_threshold": 2,
+      "enabled": false
+    }
+  },
+  "maxusdt" : 5
+}
