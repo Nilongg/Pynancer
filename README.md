@@ -1,9 +1,27 @@
 # Pynancer 💸
-A crypto trading bot made for Binance using Python as the language.
+Binance crypto trading bot made with python.
+This is a hobby project just for "fun" totally not because i wanted to make some extra money 😚 .
 
 # Installation
+Use releases or just clone the project normally
 
-# How to use?
+Cloning:
+- Clone the project to the wanted directory
+- Use command cd pynancer to get to the root
+- Use command pip install -r requirements.txt
+- Move to the "how to use" section for running the bot
+
+Using releases
+- Coming soon...
+
+
+# How to use? 🤔
+1 - CHECK DISCLAIMER BEFORE USING IN REALTIME!!!
+2 - Create an env file inside the root directory
+3 - Add fields: (Testnet if you wanna test it first)
+    - BINANCE_API_SECRET
+    - BINANCE_API_KEY
+4 - Run the bot by using python3 main.py (in the root)
 
 # Disclaimer :exclamation:
 
