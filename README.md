@@ -1,6 +1,6 @@
 # Pynancer 💸
 Binance crypto trading bot made with python.
-This is a hobby project just for "fun" totally not because i wanted to make some extra money 😚 .
+This is a hobby project just for "fun" totally not because i wanted to make some extra money 😚
 
 # Requirements
 - local deepseek ai model
