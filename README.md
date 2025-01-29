@@ -2,11 +2,20 @@
 Binance crypto trading bot made with python.
 This is a hobby project just for "fun" totally not because i wanted to make some extra money 😚 .
 
+# Requirements
+- local deepseek ai model
+  - get one here https://ollama.com/library/deepseek-r1
+- Python3 or newer
+- if using linux or mac, then python virtual envinronment
+    - Will add instruction to this read me later now use this:
+    - https://chatgpt.com/share/679a2d14-0a90-8011-a285-8f425e12d850
+- *common sense*
+
 # Installation
 Use releases or just clone the project normally
 
 Cloning:
-- Clone the project to the wanted directory
+- Clone the project to the wanted directory 
 - Use command cd pynancer to get to the root
 - Use command pip install -r requirements.txt
 - Move to the "how to use" section for running the bot
@@ -14,11 +23,10 @@ Cloning:
 Using releases
 - Coming soon...
 
-
 # How to use? 🤔
 - CHECK DISCLAIMER BEFORE USING IN REALTIME!!!
 - Create an env file inside the root directory
-- Add fields: (Testnet if you wanna test it first)
+- Add fields: (Testnet values if you wanna test it first)
     - BINANCE_API_SECRET
     - BINANCE_API_KEY
 - Run the bot by using python3 main.py (in the root)
