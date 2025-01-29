@@ -1,11 +1,11 @@
 # Pynancer 💸
-Binance crypto trading bot made with python.
+Binance crypto trading bot made with Python.
 This is a hobby project just for "fun" 🙄
 
 # Requirements ✅
 - local deepseek ai model
   - get one here https://ollama.com/library/deepseek-r1
-- Python3 or newer
+- Python 3.12 (recommended)
 - if using linux or mac, then python virtual envinronment
     - Will add instruction to README later, so for now use this:
     - https://chatgpt.com/share/679a2d14-0a90-8011-a285-8f425e12d850
@@ -40,7 +40,7 @@ Using releases
 - Run the bot by using python3 main.py (in the root)
 
 # Build with 🛠️:
-- Python3
+- Python 3.12
 - DeepSeek R1
 
 # Disclaimer :exclamation:
