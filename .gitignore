@@ -173,3 +173,6 @@ cython_debug/
 # Python virtual environment files
 
 myenv/
+
+# Balance txt file
+balance.txt
