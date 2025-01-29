@@ -12,8 +12,8 @@ import time
 from binance.enums import *
 
 # Import the required functions from the bot.py file
-from actions import get_price, get_account_balance, calculate_trade_quantity
-from actions import place_order, log_balance, adjust_quantity, get_step_size
+from tools.actions import get_price, get_account_balance, calculate_trade_quantity
+from tools.actions import place_order, log_balance, adjust_quantity, get_step_size
 
 reference_prices = {}
 allow_trading = False
