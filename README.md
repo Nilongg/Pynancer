@@ -16,12 +16,12 @@ Using releases
 
 
 # How to use? 🤔
-1 - CHECK DISCLAIMER BEFORE USING IN REALTIME!!!
-2 - Create an env file inside the root directory
-3 - Add fields: (Testnet if you wanna test it first)
+- CHECK DISCLAIMER BEFORE USING IN REALTIME!!!
+- Create an env file inside the root directory
+- Add fields: (Testnet if you wanna test it first)
     - BINANCE_API_SECRET
     - BINANCE_API_KEY
-4 - Run the bot by using python3 main.py (in the root)
+- Run the bot by using python3 main.py (in the root)
 
 # Disclaimer :exclamation:
 
