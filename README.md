@@ -36,7 +36,7 @@ Using releases
     - allow_trading: true, if you want the bot to make trades
     - maxusdt: The max "usdt" to use on trades.
     - Note that the bot will use your whole portfolio,
-      so i suggest you make a separate portfolio for the bot
+      so i suggest you make a seperate sub account for the bot
 - Configure config_adv.json (for the AI trading)
     - Coming soon...
 - Run the bot by using python3 main.py (in the root)
