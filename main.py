@@ -1,9 +1,4 @@
-"""
-This file will be the starting point for our bot. 
-It will contain the main trading logic and signal handling for cleanup. 
-We will also define a few global variables that will be used throughout the bot. 
-Let's start by defining the global variables and the main trading logic.
-"""
+"""The main file for the Binance Trading Bot."""
 
 import subprocess
 import json
