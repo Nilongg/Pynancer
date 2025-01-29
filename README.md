@@ -7,7 +7,7 @@ This is a hobby project just for "fun" totally not because i wanted to make some
   - get one here https://ollama.com/library/deepseek-r1
 - Python3 or newer
 - if using linux or mac, then python virtual envinronment
-    - Will add instruction to this read me later now use this:
+    - Will add instruction to README later, so for now use this:
     - https://chatgpt.com/share/679a2d14-0a90-8011-a285-8f425e12d850
 - *common sense*
 
