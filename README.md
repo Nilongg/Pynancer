@@ -37,6 +37,7 @@ Using releases
     - maxusdt: The max "usdt" to use on trades.
     - Note that the bot will use your whole portfolio,
       so i suggest you make a seperate sub account for the bot
+    - Read here https://www.binance.com/en/support/faq/binance-sub-account-functions-and-frequently-asked-questions-360020632811
 - Configure config_adv.json (for the AI trading)
     - Coming soon...
 - Run the bot by using python3 main.py (in the root)
