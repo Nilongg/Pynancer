@@ -29,6 +29,14 @@ Using releases
 - Add fields: (Testnet values if you wanna test it first)
     - BINANCE_API_SECRET
     - BINANCE_API_KEY
+- Configure config.json (for basic trading) 
+    - In the "cryptos" you can add more crypto "objects"
+    - there are couple already so you can use them as templates
+    - allow_trading: false, if you don't want the bot to make trades
+    - allo_trading: true, if you want the bot to make trades
+    - maxusdt: The max "usdt" to use on trades.
+- Configure config_adv.json (for the AI trading)
+    - Coming soon...
 - Run the bot by using python3 main.py (in the root)
 
 # Disclaimer :exclamation:
