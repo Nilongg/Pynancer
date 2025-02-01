@@ -1,4 +1,7 @@
 {
-  "ai_model": "deepseek-r1:8b"
+  "ai_model": "deepseek-r1:8b",
+  "cryto": "SHIBUSDT",
+  "maxusdt": 2,
+  "allow_trading": true
 
 }
