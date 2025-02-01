@@ -153,3 +153,4 @@ def log_balance(crypto_symbol):
             file.write(log_entry)
     except Exception as e:
         print(f"Error logging balance: {e}")
+        
