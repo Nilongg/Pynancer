@@ -335,4 +335,4 @@ def handle_exit(signal_received, frame):
 signal.signal(signal.SIGINT, handle_exit)
   
 if __name__ == "__main__":
-    test()
+    start_bot()
